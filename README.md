@@ -2,6 +2,7 @@
 ## Collections of Essential Powerful Examples Python Scripts for Everyday Tasks for Developers
 Solving complex problems was never the challenge; writing concise code snippets truly tested my skills. Now, I’m focused on transforming how you write and think, making elegance and efficiency second nature.
 
+<img src="https://github.com/user-attachments/assets/8bde78b5-ca6a-4aed-91b4-5c4fdc9b9886" width="300"/>
 
 
 
